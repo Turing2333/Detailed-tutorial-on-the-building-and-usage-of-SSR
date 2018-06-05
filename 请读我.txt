@@ -18,7 +18,7 @@ vultr账号注册链接： https://www.vultr.com/?ref=7224941
 
 这么好的东西大家不要私藏，请尽力扩散、推广它，帮助更多的人！
 
-传播时可以直接发下载下来的那个压缩包，也可以发本教程的网址 https://github.com/Turing2333/Detailed-tutorial-on-the-building-and-usage-of-SSR
+传播时可以直接发下载下来的那个压缩包，也可以发本教程的网址  https://github.com/Turing2333/Detailed-tutorial-on-the-building-and-usage-of-SSR
 
 在教程不断更新的过程中由于某些内容的变更，可能会导致旧教程失效，来上述网址重新下载最新版教程即可。
 
